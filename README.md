@@ -1,16 +1,17 @@
-## Hi there 👋
+Bem vindo ao meu perfil
 
-<!--
-**NADMMVJC/NADMMVJC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome e Nicolas Alayo sou do 1B
 
-Here are some ideas to get you started:
+Sou aluno da escola E.E. PEI JOÃO CLIMACO DE CAMARGO PIRES
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Utilizamos como ferramenta nas aulas de robótica os cursos do Alura
+
+Estou desenvolvendo linguagem JAVASCRIPT 
+
+* Utilizo esse espaço para organização e compartilhamento dos meus projetos
+
+Você pode entrar em contato comigo:
+
+00001115768633sp@aluno.educacao.sp.gov.br
+
+!(<img src="https://media1.tenor.com/m/rkYIU1sIdNkAAAAC/profeta-spfc.gif" alt="a man wearing a shirt that says adidas spfc"/>![image](https://github.com/user-attachments/assets/9e272bb6-80ee-4ed6-9518-7d9bb24085d1)
